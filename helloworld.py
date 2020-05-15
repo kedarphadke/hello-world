@@ -1,2 +1,3 @@
 #! python3
-print('Hello World')
+print('My very late transition from CVS and SVN')
+print('Hello to the World of GIT')
